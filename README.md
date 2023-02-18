@@ -1,3 +1,3 @@
 # template-react-vite-yarn-typescript-jest
 
-Template tu create new react apps
+Template to create new react apps
